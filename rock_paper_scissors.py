@@ -1,3 +1,4 @@
+/*Use socket programming to make this game more interactive*/
 import random
 print("Welcome to the Rock,Paper and Scissor game")
 print("Game rules")
